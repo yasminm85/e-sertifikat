@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "vscode-icons",
+    "java.project.sourcePaths": [
+        "src"
+    ],
+}
