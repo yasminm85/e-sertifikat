@@ -8,7 +8,7 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
 
 <head>
     <meta charset="utf-8">
-    <title>E-SERTIFIKAT</title>
+    <title>SERTIFIKAT PD SALMAN</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -69,7 +69,7 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
                 <div class="container">
                     <div class="row g-5 align-items-center">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated zoomIn">E-Sertifikat Pelatihan Desain SALMAN MM TEKNIK</h1>
+                            <h1 class="text-white mb-4 animated zoomIn">Sertifikat Pelatihan Desain SALMAN MM TEKNIK</h1>
                             <p class="text-white pb-3 animated zoomIn">Ayo isi datamu untuk mendapatkan sertifikat</p>
                             <a href="isi-data.php" class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight">Isi Data</a>
                         </div>
@@ -80,38 +80,7 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
                 </div>
             </div>
         </div>
-        <!-- Navbar & Hero End -->
-
-
-        <!-- About Start -->
-       
-        <!-- About End -->
-
-
-        <!-- Newsletter Start -->
-       
-        <!-- Newsletter End -->
-
-
-        <!-- Service Start -->
-       
-        <!-- Service End -->
-
-
-        <!-- Features Start -->
-      
-        <!-- Features End -->
-
-
-        <!-- Client Start -->
-       
-        <!-- Client End -->
-
-
-        <!-- Testimonial Start -->
-       
-        <!-- Testimonial End -->
-
+        
 
         <!-- Team Start -->
         <div class="container-xxl py-6">
@@ -126,11 +95,7 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
                             <h5>Nuryasmin Mutiara Bintang</h5>
                             <p class="mb-4">Member</p>
                             
-                            <div class="d-flex justify-content-center">
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                           
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-7 wow fadeInUp" data-wow-delay="0.1s">
@@ -138,11 +103,7 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
                             <h5>Damarjati Surya Kusuma</h5>
                             <p class="mb-4">Member</p>
                             
-                            <div class="d-flex justify-content-center">
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                          
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-7 wow fadeInUp" data-wow-delay="0.5s">
@@ -150,11 +111,7 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
                             <h5>Putri Alviany Dyah Prameswari</h5>
                             <p class="mb-4">Member</p>
                             
-                            <div class="d-flex justify-content-center">
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div>
+                           
                         </div>
                     </div>
                     
@@ -173,57 +130,24 @@ if(!isset($_SESSION["email"])) header("Location: ../login.php");
                         <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
                         <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
                         <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
-                        <div class="d-flex pt-2">
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
+                       
                     </div>
-                    <div class="col-md-6 col-lg-3">
-                        <h5 class="text-white mb-4">Quick Link</h5>
-                        <a class="btn btn-link" href="">About Us</a>
-                        <a class="btn btn-link" href="">Contact Us</a>
-                        <a class="btn btn-link" href="">Privacy Policy</a>
-                        <a class="btn btn-link" href="">Terms & Condition</a>
-                        <a class="btn btn-link" href="">Career</a>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <h5 class="text-white mb-4">Popular Link</h5>
-                        <a class="btn btn-link" href="">About Us</a>
-                        <a class="btn btn-link" href="">Contact Us</a>
-                        <a class="btn btn-link" href="">Privacy Policy</a>
-                        <a class="btn btn-link" href="">Terms & Condition</a>
-                        <a class="btn btn-link" href="">Career</a>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <h5 class="text-white mb-4">Newsletter</h5>
-                        <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu</p>
-                        <div class="position-relative w-100 mt-3">
-                            <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Your Email" style="height: 48px;">
-                            <button type="button" class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2"><i class="fa fa-paper-plane text-primary fs-4"></i></button>
-                        </div>
-                    </div>
+                  
+                   
+                   
                 </div>
             </div>
             <div class="container">
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved. 
+                            &copy; <a class="border-bottom" href="#">Sertifikat Salman</a>, All Right Reserved. 
 							
 							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-                            <br>Distributed By: <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
+							Designed By <a class="border-bottom"></a>
+                            <br>Distributed By: 
                         </div>
-                        <div class="col-md-6 text-center text-md-end">
-                            <div class="footer-menu">
-                                <a href="">Home</a>
-                                <a href="">Cookies</a>
-                                <a href="">Help</a>
-                                <a href="">FQAs</a>
-                            </div>
+                        
                         </div>
                     </div>
                 </div>
