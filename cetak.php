@@ -210,7 +210,7 @@ $data = query("SELECT * FROM data_peserta");
                                             
                                             <th>No</th>
                                             <th>Name</th>
-                                            <th>No Sertifikat</th>
+                                            
                                           
                                             <th>Action</th>
                                         </tr>
@@ -224,7 +224,7 @@ $data = query("SELECT * FROM data_peserta");
                                         <tr>
                                             <td><?= $i; ?></td>
                                             <td><?= $row["nama"]; ?></td>
-                                            <td>002/SKU/KU/PelatihanDesain/SALMAN/VII/2022</td>
+                                            
             
                                             <td>
                                             <a href="template.php?id=<?= $row["id"]; ?>"><button type="button" class="btn btn-info">Cetak</button></a>
