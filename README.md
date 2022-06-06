@@ -1,4 +1,5 @@
 Anggota:
-Damarjati Surya Kusuma
-Putri Alviany Dyah Prameswari
+<br>
+Damarjati Surya Kusuma<br>
+Putri Alviany Dyah Prameswari<br>
 Nuryasmin Mutiara Bintang
