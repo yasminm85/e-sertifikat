@@ -1,1 +1,1 @@
-"Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+A web application that enables users to search for e-certificates and download those they have joined. Admins can manage certificate data efficiently.
